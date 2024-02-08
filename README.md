@@ -16,4 +16,6 @@ Some Notes & Requirements:
 2. The script will need modifications if computing over multiple height levels. 
 3. The domain (latitude, longitude) used can be flexible. But the longitude should ideally be changed to -180 to 180 degree format.
 4. Assume dimension names and order: time, latitude, longitude 
-5. When dealing with large data, it is suggested to coarsen the data. (i.e., from 0.25 degrees to 0.5 degrees) if working over a long time-period. 
+5. When dealing with large data, it is suggested to coarsen the data. (i.e., from 0.25 degrees to 0.5 degrees) if working over a long time-period.
+
+The script and documentation will be updated to be more informative. 
